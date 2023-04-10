@@ -1,4 +1,5 @@
 # FBJS
+[![CI](https://github.com/Miguelzamora13/fbjs/actions/workflows/ci.yml/badge.svg)](https://github.com/Miguelzamora13/fbjs/actions/workflows/ci.yml)
 
 ## Purpose
 
